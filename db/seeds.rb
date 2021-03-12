@@ -1,0 +1,5 @@
+Show.create ({title: "Queens Gambit", genre: "Drama", lead_actor: "Anya Taylor Joy"})
+Show.create ({title: "True Blood", genre: "Drama", lead_actor: "Ann P"})
+Show.create ({title: "South Park", genre: "Comedy", lead_actor: "Cartman"})
+Show.create ({title: "Supernatural", genre: "Drama", lead_actor: "Sam"})
+Show.create ({title: "American Horror Story", genre: "Horror", lead_actor: "Kathy Bates"})
